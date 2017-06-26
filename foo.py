@@ -1,1 +1,1 @@
-print 'foo 2222!'
+print 'foo!'
